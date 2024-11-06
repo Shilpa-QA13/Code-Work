@@ -1,0 +1,11 @@
+package LMS_classes;
+
+public class Driver {
+	public static void main(String[] args) {
+		Book b1=new Book("Art Of Living","AB","ISBN001",3);
+		Book b2=new Book("Life is beautiful","ABC","ISBN002",8);
+	
+		
+	}
+
+}

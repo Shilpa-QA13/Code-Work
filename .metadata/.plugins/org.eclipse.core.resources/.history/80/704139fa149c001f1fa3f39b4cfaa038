@@ -1,0 +1,6 @@
+package LMS_classes;
+
+abstract public class BorrowBookDetails {
+	public abstract void borrow_book(Book book);
+
+}
